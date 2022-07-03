@@ -60,7 +60,7 @@
 <ul>
 	<li>
 		<a href=""> 
-		📚 Theater Management System 📚
+		📽 Theater Management System 📽
 		</a>
 	</li>
 </ul>

@@ -4,7 +4,37 @@
 <ul>
 	<li>
 		<a href=""> 
-		🥗 Book Vision 🥗
+		📖 Book Vision 📖
+		</a>
+	</li>
+	<li>
+		<a href=""> 
+		🍕 Recipes Application 🍕
+		</a>
+	</li>
+	<li>
+		<a href=""> 
+		❔ Quizz Application ❔
+		</a>
+	</li>
+	<li>
+		<a href=""> 
+		💵 Expense Application 💵
+		</a>
+	</li>
+	<li>
+		<a href=""> 
+		🗺 Maps Location Application 🥗
+		</a>
+	</li>
+	<li>
+		<a href=""> 
+		👗 Shop Application 👗
+		</a>
+	</li>
+		<li>
+		<a href=""> 
+		🙋 Chat Application 🙋
 		</a>
 	</li>
 </ul>

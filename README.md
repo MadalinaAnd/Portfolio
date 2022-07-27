@@ -1,5 +1,31 @@
 # Portfolio
 
+## Unity 💻 
+<ul>
+	<li>
+		<a href="https://github.com/RigoCat/Virus_Simulation_Application"> 
+		🦠 3D Virus Simulation Application 🦠 
+		</a>
+	</li>
+	<li>
+		<a href="https://github.com/RigoCat/ShapesColor"> 
+		🟣 Shapes Color 🟣 
+		</a>
+	</li>
+</ul>
+</li>
+
+
+## C#/.NET 🛠
+<ul>
+	<li>
+		<a href="https://github.com/MadalinaAnd/UBB-ISS-2021"> 
+		📽 Theater Management System 📽
+		</a>
+	</li>
+</ul>
+</li>
+
 ## Flutter 📱
 <ul>
 	<li>
@@ -35,32 +61,6 @@
 		<li>
 		<a href="https://github.com/MadalinaAnd/FlutterProjects/tree/main/chat_app"> 
 		🙋 Chat Application 🙋
-		</a>
-	</li>
-</ul>
-</li>
-
-## Unity 💻 
-<ul>
-	<li>
-		<a href="https://github.com/RigoCat/Virus_Simulation_Application"> 
-		🦠 3D Virus Simulation Application 🦠 
-		</a>
-	</li>
-	<li>
-		<a href="https://github.com/RigoCat/ShapesColor"> 
-		🟣 Shapes Color 🟣 
-		</a>
-	</li>
-</ul>
-</li>
-
-
-## C#/.NET 🛠
-<ul>
-	<li>
-		<a href="https://github.com/MadalinaAnd/UBB-ISS-2021"> 
-		📽 Theater Management System 📽
 		</a>
 	</li>
 </ul>
